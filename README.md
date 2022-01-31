@@ -1,7 +1,7 @@
 ### Hello there
 
 - 👋 My name is **Laurence**
-- 👀 I’m interested in an **Internship or Part-Time Work**
+- 👀 I’m interested in **Full-Time Opportunities**
 - 🌱 I’m currently learning Computer Science @ The University of Florida
 - 💞️ I’m looking to collaborate on projects that are interesting and beneficial to our society or planet
 - 📫 Reach me at *laurencemullen99@gmail.com* or *laurence.mullen@ufl.edu*
