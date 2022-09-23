@@ -2,9 +2,9 @@
 
 - 👋 My name is **Laurence**
 - 👀 I’m interested in **Full-Time Opportunities**
-- 🌱 I’m currently learning Computer Science @ The University of Florida
+- 🌱 Graduated from The University of Florida in 2022
 - 💞️ I’m looking to collaborate on projects that are interesting and beneficial to our society or planet
-- 📫 Reach me at *laurencemullen99@gmail.com* or *laurence.mullen@ufl.edu*
+- 📫 Check out my portfolio at *https://laurencem.online*
 
 <!---
 Laurence-RM/Laurence-RM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
